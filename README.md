@@ -53,6 +53,7 @@ Si la entrada sumo.in fuera:
 344 1570,
 276 1678,
 289 1499.
+
 La salida sumo.out debería ser:
 1,
 2,
