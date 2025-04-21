@@ -1,4 +1,5 @@
-Esta es mi solucion al problema de los luchadores de sumo (abajo el enunciado), esta desarrollado en el lenguaje Java y se realizaron pruebas en JUnit
+Esta es mi solucion al problema de los luchadores de sumo (abajo el enunciado), esta desarrollado en el lenguaje Java y se realizaron pruebas en JUnit.
+Es uno de mis primeros codigos en Java y mi primer problema resuelto
 
 Descripción del problema
 Una academia dedicada a las difíciles artes de
